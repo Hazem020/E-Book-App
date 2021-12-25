@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aldrich</item>
+        <item>@font/bree_serif</item>
+        <item>@font/convergence</item>
+        <item>@font/cormorant_medium</item>
+        <item>@font/coustard</item>
+        <item>@font/days_one</item>
+        <item>@font/lusitana_bold</item>
+        <item>@font/meera_inimai</item>
+        <item>@font/roboto_mono_medium</item>
+        <item>@font/titillium_web_bold</item>
+        <item>@font/wellfleet</item>
+    </array>
+</resources>
